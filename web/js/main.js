@@ -34,7 +34,7 @@ adder.init({ tgt: [ 0, 0, 0, 1,   1, 0, 1, 1 ]
 function next() {
   adder.nextBit()
 }
-setInterval(next, 500)
+setInterval(next, 800)
 return
 
 function initProgram() {
